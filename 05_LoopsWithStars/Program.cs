@@ -86,7 +86,7 @@ namespace _05_LoopsWithStars
 
             #endregion
 
-            #region Baklava Dilimi
+            #region Baklava Dilimi 
 
             //üst kısım
             //int n = 5;
@@ -163,6 +163,46 @@ namespace _05_LoopsWithStars
 
             #endregion
 
+            #region Baklava Dilimi 3
+
+            int n = 5;
+
+            // Üst kısım
+            for (int i = 1; i <= n; i++)
+            {
+                // Boşluklar
+                for (int j = 1; j <= n - i; j++)
+                {
+                    Console.Write(" ");
+                }
+
+                // Yıldızlar
+                for (int k = 1; k <= 2 * i - 1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            // Alt kısım
+            for (int i = n - 1; i >= 1; i--)
+            {
+                // Boşluklar
+                for (int j = 1; j <= n - i; j++)
+                {
+                    Console.Write(" ");
+                }
+
+                // Yıldızlar
+                for (int k = 1; k <= 2 * i - 1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            #endregion
+
             #region Piramit
 
             //int n = 5;
@@ -204,6 +244,10 @@ namespace _05_LoopsWithStars
             //}
 
             #endregion
+
+           
+
+            
 
             Console.Read();
 
