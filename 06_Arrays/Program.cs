@@ -197,29 +197,29 @@ namespace _06_Arrays
 
             // ---------------------------------------------------
 
-            int[] numbers = { 21, 42, 63, 54, 75, 66, 87, 98, 89, 100 };
+            //int[] numbers = { 21, 42, 63, 54, 75, 66, 87, 98, 89, 100 };
 
-            Console.WriteLine("Çift Sayılar");
-            Console.WriteLine();
+            //Console.WriteLine("Çift Sayılar");
+            //Console.WriteLine();
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
-            Console.WriteLine();
-            Console.WriteLine("Tek Sayılar");
-            Console.WriteLine();
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+            //Console.WriteLine();
+            //Console.WriteLine("Tek Sayılar");
+            //Console.WriteLine();
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
 
             #endregion
 
