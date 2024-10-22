@@ -165,41 +165,41 @@ namespace _05_LoopsWithStars
 
             #region Baklava Dilimi 3
 
-            int n = 5;
+            //int n = 5;
 
-            // Üst kısım
-            for (int i = 1; i <= n; i++)
-            {
-                // Boşluklar
-                for (int j = 1; j <= n - i; j++)
-                {
-                    Console.Write(" ");
-                }
+            //// Üst kısım
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    // Boşluklar
+            //    for (int j = 1; j <= n - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
 
-                // Yıldızlar
-                for (int k = 1; k <= 2 * i - 1; k++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
-            }
+            //    // Yıldızlar
+            //    for (int k = 1; k <= 2 * i - 1; k++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
 
             // Alt kısım
-            for (int i = n - 1; i >= 1; i--)
-            {
-                // Boşluklar
-                for (int j = 1; j <= n - i; j++)
-                {
-                    Console.Write(" ");
-                }
+            //for (int i = n - 1; i >= 1; i--)
+            //{
+            //    // Boşluklar
+            //    for (int j = 1; j <= n - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
 
-                // Yıldızlar
-                for (int k = 1; k <= 2 * i - 1; k++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
-            }
+            //    // Yıldızlar
+            //    for (int k = 1; k <= 2 * i - 1; k++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
 
             #endregion
 
@@ -226,28 +226,28 @@ namespace _05_LoopsWithStars
 
             #region Ters Piramit
 
-            //int n = 5;
-            //for (int i = n; i >= 1; i--)
-            //{
-            //    //boşluklar
-            //    for (int j = n - i; j > 0; j--)
-            //    {
-            //        Console.Write(" ");
-            //    }
+            int n = 5;
+            for (int i = n; i >= 1; i--)
+            {
+                //boşluklar
+                for (int j = n - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
 
-            //    //yıldızlar
-            //    for (int k = 1; k <= 2 * i - 1; k++)
-            //    {
-            //        Console.Write("*");
-            //    }
-            //    Console.WriteLine();
-            //}
+                //yıldızlar
+                for (int k = 1; k <= 2 * i - 1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
 
             #endregion
 
-           
 
-            
+
+
 
             Console.Read();
 
