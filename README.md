@@ -13,7 +13,7 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 <table>
   <tr>
-    <h2> Proje 1: Main subjects </h2>
+    <td><h2> Proje 1: Main subjects </h2></td>
   </tr>
   
   <tr>
