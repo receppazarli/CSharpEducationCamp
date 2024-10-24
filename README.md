@@ -10,8 +10,12 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 
-<h2> Proje 1: Main subjects </h2>
+
 <table>
+  <tr>
+    <h2> Proje 1: Main subjects </h2>
+  </tr>
+  
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/geography_12743755.gif" alt="Icon by Freepik" width="40"></td>
     <td>Bu projede C# temel konularından derse başlıyoruz. Console üzerinden yazdırma komutlarını ve daha birçok konuyu inceliyoruz.</td>
