@@ -6,20 +6,11 @@
   </tr>
 </table>
 
-
-
-
 Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini içeriyor. Şu ana kadar 9 tane proje gerçekleştirdik. Murat Hoca C# derslerine 101 seviyesinde başlayıp 401 seviyeleri hedef alan bir kamp. Aşağıda projeler hakkında detayları bulabilirsiniz ve incelemek isterseniz projelere bakabilirsiniz. 
 
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/03.gif" alt="Icon by Freepik" width="40"></td>
-    <td><h2> Proje 1: Main subjects </h2></td>
-  </tr>
-</table>
 
-
+<h2> Proje 1: Main subjects </h2>
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/geography_12743755.gif" alt="Icon by Freepik" width="40"></td>
@@ -27,10 +18,7 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
   </tr>
 </table>
 
-
-
 <h2> Proje 2: Variables  </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/2.gif" alt="Icon by Freepik" width="40"></td>
@@ -40,7 +28,6 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 3: Making Decision </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/3.gif" alt="Icon by Freepik" width="40"></td>
@@ -50,7 +37,6 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 4: Loops </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/4.gif" alt="Icon by Freepik" width="40"></td>
@@ -60,7 +46,6 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 5: Loop With Starts  </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/5.gif" alt="Icon by Freepik" width="40"></td>
@@ -70,7 +55,6 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 6: Arrays  </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/6.gif" alt="Icon by Freepik" width="40"></td>
@@ -80,18 +64,17 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 7: Foreach Loop </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/7.gif" alt="Icon by Freepik" width="40"></td>
-    <td>Bu projede foreach yapısını inceledik. Foreach nasıl oluşturulur, kullanılır, kolaylıkları nelerdir vs. konular üzerine çalışmalar yaptık. En son örnek sınav uygulaması hazırlayıp döngüler üzerine pekiştirme yaptık.</td>
+    <td>Bu projede foreach yapısını inceledik. Foreach nasıl oluşturulur, kullanılır, kolaylıkları nelerdir vs. konular üzerine çalışmalar yaptık. En son örnek sınav uygulaması hazırlayıp döngüler üzerine pekiştirme 
+    yaptık.</td>
   </tr>
 </table>
 
 
 
 <h2> Proje 8: Methods </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/8.gif" alt="Icon by Freepik" width="40"></td>
@@ -101,12 +84,11 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 9: Database Project  </h2>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/9.gif" alt="Icon by Freepik" width="40"></td>
-    <td>Bu projede database üzerine inceleme yaptık. MSSQL üzerinden yeni bir database oluşturup içerine tablolar ekledik. Bu tablolaların içerisine atamalar yaptık. Sonrasında kod üzerinden bu verileri SqlConnection, SqlCommand, SqlDataAdapter ve DataTable oluşturarak console üzerinde yazdırma işlemi yaptık
-.</td>
+    <td>Bu projede database üzerine inceleme yaptık. MSSQL üzerinden yeni bir database oluşturup içerine tablolar ekledik. Bu tablolaların içerisine atamalar yaptık. Sonrasında kod üzerinden bu verileri SqlConnection,     
+    SqlCommand, SqlDataAdapter ve DataTable oluşturarak console üzerinde yazdırma işlemi yaptık.</td>
   </tr>
 </table>
 
