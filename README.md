@@ -14,7 +14,14 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <h2> Proje 2: Variables  </h2>
-Bu projede değişken türlerini öğrendik. Farklı farklı değişken türlerini deneyip tanımlamalar yaptık.
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/2.gif" alt="Icon by Freepik" width="40"></td>
+    <td>Bu projede değişken türlerini öğrendik. Farklı farklı değişken türlerini deneyip tanımlamalar yaptık.</td>
+  </tr>
+</table>
+
 
 <h2> Proje 3: Making Decision </h2>
 Bu projede karar yapılarını inceledik. İf-Else üzerine önce temel düzeyde bilgilendirmeler ve örnekler yaptık.
