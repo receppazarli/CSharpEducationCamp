@@ -4,7 +4,7 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <a href="https://www.freepik.com/search">
-    <img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/geography_12743755.png" alt="Icon by Freepik" width="50">
+    <img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/geography_12743755.gif" alt="Icon by Freepik" width="50">
 </a> Bu projede C# temel konularından derse başlıyoruz. Console üzerinden yazdırma komutlarını ve daha birçok konuyu inceliyoruz.
 
 
