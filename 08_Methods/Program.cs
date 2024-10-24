@@ -10,8 +10,6 @@ namespace _08_Methods
     {
         static void Main(string[] args)
         {
-
-
             #region Void Metotlar
 
             //()
