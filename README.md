@@ -2,9 +2,16 @@
 
 Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini içeriyor. Şu ana kadar 9 tane proje gerçekleştirdik. Murat Hoca C# derslerine 101 seviyesinde başlayıp 401 seviyeleri hedef alan bir kamp. Aşağıda projeler hakkında detayları bulabilirsiniz ve incelemek isterseniz projelere bakabilirsiniz. 
 
-
 <h2> Proje 1: Main subjects </h2>
-Bu projede C# temel konularından derse başlıyorz. Console üzerinden yazdırma komutlarını ve daha bir çok komuyu inceliyoruz.
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/geography_12743755.gif" alt="Icon by Freepik" width="40"></td>
+    <td>Bu projede C# temel konularından derse başlıyoruz. Console üzerinden yazdırma komutlarını ve daha birçok konuyu inceliyoruz.</td>
+  </tr>
+</table>
+
+
 
 <h2> Proje 2: Variables  </h2>
 Bu projede değişken türlerini öğrendik. Farklı farklı değişken türlerini deneyip tanımlamalar yaptık.
