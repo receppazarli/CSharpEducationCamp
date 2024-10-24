@@ -4,8 +4,9 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
 
 
 <a href="https://www.freepik.com/search">
-    <img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/main/geography_12743755.png" alt="Icon by Freepik" width="50">
-</a> Bu projede C# temel konularından derse başlıyorz. Console üzerinden yazdırma komutlarını ve daha bir çok komuyu inceliyoruz.
+    <img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/main/assets/geography_12743755.png" alt="Icon by Freepik" width="50">
+</a> Bu projede C# temel konularından derse başlıyoruz. Console üzerinden yazdırma komutlarını ve daha birçok konuyu inceliyoruz.
+
 
 <h2> Proje 2: Variables  </h2>
 Bu projede değişken türlerini öğrendik. Farklı farklı değişken türlerini deneyip tanımlamalar yaptık.
