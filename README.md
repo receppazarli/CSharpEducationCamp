@@ -92,3 +92,11 @@ Merhaba değerli arkadaşlar. Bu repo Murat Yücedağ C# Kampının projelerini 
     SqlCommand, SqlDataAdapter ve DataTable oluşturarak console üzerinde yazdırma işlemi yaptık.</td>
   </tr>
 </table>
+
+<h2> Proje 9: Database Crud  </h2>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/receppazarli/CSharpEducationCamp/master/assets/10.gif" alt="Icon by Freepik" width="40"></td>
+    <td>Bu projede database CRUD işlemlerini console üzerinden yaptık. Listeleme, Okuma, Güncelleme ve Silme operasyonlarını gerçekleştirdik.</td>
+  </tr>
+</table>
